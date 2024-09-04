@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#file
 sudo apt update
 
 #preparing for installation vs code
